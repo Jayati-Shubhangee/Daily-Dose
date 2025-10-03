@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
