@@ -41,16 +41,19 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 ## Sorting
 |  |
 | ------- |
