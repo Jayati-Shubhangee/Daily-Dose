@@ -9,6 +9,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## String
 |  |
 | ------- |
