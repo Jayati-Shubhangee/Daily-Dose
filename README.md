@@ -48,6 +48,7 @@
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
+| [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
+| [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
 ## Prefix Sum
 |  |
 | ------- |
