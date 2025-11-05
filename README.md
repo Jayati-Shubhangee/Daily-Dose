@@ -37,6 +37,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
@@ -106,4 +107,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
