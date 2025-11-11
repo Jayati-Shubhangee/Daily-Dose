@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -105,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
