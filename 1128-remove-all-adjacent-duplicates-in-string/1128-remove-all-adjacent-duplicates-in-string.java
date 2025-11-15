@@ -1,6 +1,6 @@
 class Solution {
     public String removeDuplicates(String s) {
-       StringBuilder sb = new StringBuilder(s);
+      /* StringBuilder sb = new StringBuilder(s);
         int i = 0;
         int j = i + 1;
 
@@ -25,6 +25,33 @@ class Solution {
             }
         }
 
-        return sb.toString();
+        return sb.toString();*/
+
+
+        StringBuilder sb = new StringBuilder(s); 
+        int i=0; 
+        int j =i+1; 
+        int n = sb.length(); 
+        int storei=0;
+        int storej=0;
+        while(j<n && i>=0){ 
+            if(sb.charAt(i)!=sb.charAt(j))
+            { i++; 
+            j++; 
+            } 
+        else if(sb.charAt(i)==sb.charAt(j))
+        { 
+        storei=i;
+        storej=j;
+         
+        sb.delete(storei,storej+1);
+n=n-2; 
+i=storei-1;
+if(i<0)i=0;
+        j=i+1;
+         
+        } 
+        } 
+        return(sb.toString());
     }
 }
