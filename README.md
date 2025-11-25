@@ -34,6 +34,7 @@
 | [0050-powx-n](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0779-k-th-symbol-in-grammar) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2288-count-operations-to-obtain-zero) |
 ## Memoization
 |  |
@@ -44,6 +45,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
