@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Simulation
 |  |
 | ------- |
