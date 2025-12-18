@@ -9,8 +9,17 @@
  * }
  */
 class Solution {
+    public static ListNode getNodeAt(ListNode head, int index) {
+     ListNode temp = head;
+        int i = 0;
+        while (temp != null && i < index) {
+            temp = temp.next;
+            i++;
+        }
+        return temp;
+    }
     public ListNode reverseKGroup(ListNode head, int k) {
-       if (head == null || k <= 1) return head;
+     /*  if (head == null || k <= 1) return head;
 
     ListNode curr = head;
     ListNode temp = head;
@@ -64,6 +73,42 @@ class Solution {
         prevGroupTail.next = curr;
     }
 
-    return head;   
+    return head; */
+    if (head == null || k <= 1) return head;
+
+    // Step 1: find size
+    int size = 0;
+    ListNode temp = head;
+    while (temp != null) {
+        size++;
+        temp = temp.next;
     }
-}
+
+    int start = 0;
+
+    // Step 2: process each k-group
+    while (start + k <= size) {
+
+        int left = start;
+        int right = start + k - 1;
+
+        // reverse data inside group
+        while (left < right) {
+            ListNode leftNode = getNodeAt(head, left);
+            ListNode rightNode = getNodeAt(head, right);
+
+            // swap data
+            int swap = leftNode.val;
+            leftNode.val = rightNode.val;
+            rightNode.val = swap;
+
+            left++;
+            right--;
+        }
+
+        start = start + k;
+    }
+
+    return head;
+}  
+    }
