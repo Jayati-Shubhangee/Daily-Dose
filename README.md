@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
+| [0086-partition-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
@@ -131,6 +132,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0086-partition-list) |
 ## Simulation
 |  |
 | ------- |
