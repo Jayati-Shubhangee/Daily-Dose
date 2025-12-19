@@ -27,6 +27,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -133,6 +136,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
 ## Simulation
 |  |
 | ------- |
