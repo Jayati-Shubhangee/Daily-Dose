@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 ## Backtracking
