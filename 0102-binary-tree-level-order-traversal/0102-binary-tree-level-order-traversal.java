@@ -24,7 +24,7 @@ class Solution {
             int count=mq.size();
             List<Integer> level=new ArrayList<>();
             for(int i=0;i<count;i++){
-                root=mq.remove();
+                root=mq.poll();
                 level.add(root.val);
                 if(root.left!=null){
                     mq.add(root.left);
