@@ -76,6 +76,7 @@
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
@@ -105,6 +106,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 ## Counting
 |  |
 | ------- |
@@ -165,5 +169,6 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
