@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,4 +185,24 @@
 | [0078-subsets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
