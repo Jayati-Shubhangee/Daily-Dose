@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
@@ -182,6 +184,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
