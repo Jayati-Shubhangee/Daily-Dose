@@ -1,6 +1,8 @@
 class Solution {
     static void solve(int open,int close,StringBuilder op,ArrayList<String>ans){
-        StringBuilder op1=new StringBuilder(op);
+        //StringBuilder op1=new StringBuilder(op);
+        //StringBuilder op2=new StringBuilder(op);
+          StringBuilder op1=new StringBuilder(op);
         StringBuilder op2=new StringBuilder(op);
         //base case
         if(open==0 && close==0){
