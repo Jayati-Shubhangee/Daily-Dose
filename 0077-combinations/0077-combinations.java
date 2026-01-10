@@ -1,7 +1,7 @@
 class Solution {
     static void solve(int start, int idx,int n , int k, List<Integer> combo, List<List<Integer>> ans){
         //base case
-        if(idx==k){
+        if(combo.size()==k){
             ans.add(new ArrayList<>(combo));
             return;
         }
