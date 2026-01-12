@@ -14,6 +14,7 @@
 | [0216-combination-sum-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -36,6 +37,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
