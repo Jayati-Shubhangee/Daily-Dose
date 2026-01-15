@@ -224,4 +224,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
