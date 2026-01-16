@@ -15,6 +15,7 @@
 | [0216-combination-sum-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
@@ -31,6 +32,7 @@
 | [0055-jump-game](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
+| [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
@@ -162,6 +165,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
