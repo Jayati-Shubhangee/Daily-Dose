@@ -241,4 +241,5 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
