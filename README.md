@@ -22,6 +22,7 @@
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0779-k-th-symbol-in-grammar) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2288-count-operations-to-obtain-zero) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
@@ -243,4 +246,8 @@
 | [1683-invalid-tweets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1934-confirmation-rate) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
