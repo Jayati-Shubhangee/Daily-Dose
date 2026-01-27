@@ -14,16 +14,18 @@
  * }
  */
 class Solution {
-    int maxdia=0;
-    public int diameterOfBinaryTree(TreeNode root) {
-       /* int maxdia=0;
-        if(root==null){
-            return 0;
+   // int maxdia=0;
+    private static int height(TreeNode root){
+            if(root==null){
+                return 0;
+            }
+            int left=height(root.left);
+            int right=height(root.right);
+            return(Math.max(left,right)+1);
         }
-        int leftheight=diameterOfBinaryTree(root.left);
-        int rightheight=diameterOfBinaryTree(root.right);
-        return (Math.max(maxdia,leftheight+rightheight));*/
-        height(root);
+    public int diameterOfBinaryTree(TreeNode root) {
+      
+       /* height(root);
         return maxdia;   // diameter in EDGES
     }
 
@@ -39,6 +41,14 @@ class Solution {
         // convert nodes → edges here
         maxdia = Math.max(maxdia, leftheight + rightheight);
 
-        return Math.max(leftheight, rightheight) + 1;
+        return Math.max(leftheight, rightheight) + 1;*/
+      
+        if(root==null){
+            return 0;
+        }
+        int leftdia=diameterOfBinaryTree(root.left);
+        int rightdia=diameterOfBinaryTree(root.right);
+        int currdia=height(root.left)+height(root.right);
+        return(Math.max(currdia, Math.max(leftdia,rightdia)));
     }
 }
