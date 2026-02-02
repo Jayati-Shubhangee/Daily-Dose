@@ -9,7 +9,7 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-         List<TreeNode> pathP = new ArrayList<>();
+        /* List<TreeNode> pathP = new ArrayList<>();
         List<TreeNode> pathQ = new ArrayList<>();
 
         // find paths
@@ -47,6 +47,22 @@ class Solution {
 
         // backtrack
         path.remove(path.size() - 1);
-        return false;
+        return false;*/
+        if(root==null){
+            return null;
+        }
+        if(root==p || root==q){
+            return root;
+        }
+        TreeNode leftLCA=lowestCommonAncestor(root.left,p,q);
+        TreeNode rightLCA=lowestCommonAncestor(root.right,p,q);
+        if(leftLCA!=null && rightLCA!=null){
+            return root;
+        }
+        else if(leftLCA !=null){
+            return leftLCA;
+        }
+        else
+        return rightLCA;
     }
 }
