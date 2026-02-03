@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0078-subsets) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
