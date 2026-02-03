@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0088-merge-sorted-array) |
@@ -185,6 +187,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0135-candy) |
