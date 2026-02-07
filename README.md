@@ -42,6 +42,7 @@
 | [0055-jump-game](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
@@ -169,6 +171,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0226-invert-binary-tree) |
@@ -188,6 +191,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
