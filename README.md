@@ -94,6 +94,7 @@
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -109,6 +110,7 @@
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
@@ -117,6 +119,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
