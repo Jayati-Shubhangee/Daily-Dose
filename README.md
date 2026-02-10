@@ -35,6 +35,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
 ## String
@@ -226,6 +228,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -293,6 +297,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
