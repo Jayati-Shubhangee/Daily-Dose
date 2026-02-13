@@ -176,6 +176,7 @@
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0700-search-in-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
