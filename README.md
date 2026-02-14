@@ -108,6 +108,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
@@ -126,6 +127,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
 ## Sliding Window
 |  |
@@ -138,6 +140,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
