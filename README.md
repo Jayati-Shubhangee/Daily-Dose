@@ -33,6 +33,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
@@ -141,6 +142,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
