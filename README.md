@@ -26,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +105,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0930-binary-subarrays-with-sum) |
@@ -160,6 +162,7 @@
 | [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -363,4 +366,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0701-insert-into-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
