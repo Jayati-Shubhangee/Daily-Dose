@@ -163,6 +163,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0901-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -370,4 +371,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
