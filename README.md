@@ -60,6 +60,7 @@
 | [0075-sort-colors](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
@@ -125,6 +126,7 @@
 | [0022-generate-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
