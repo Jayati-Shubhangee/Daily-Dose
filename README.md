@@ -351,6 +351,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0176-second-highest-salary) |
+| [0183-customers-who-never-order](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0584-find-customer-referee) |
