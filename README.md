@@ -350,6 +350,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0197-rising-temperature) |
