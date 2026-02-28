@@ -33,7 +33,7 @@ class Solution {
             ans=-1;
         }
          return ans;*/
-          for(int i = 0; i < s.length(); i++) {
+       /*   for(int i = 0; i < s.length(); i++) {
 
             int found = 0;
 
@@ -60,7 +60,30 @@ class Solution {
             }
         }
 
-        return -1;
+        return -1;*/
+
+        //hasmap approach 
+
+        LinkedHashMap<Character, Integer> map = new LinkedHashMap<>();
+        Character str=' ';
+        int ans=-1;
+        for(int i=0;i<s.length();i++){
+            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+
+        }
+        for(Map.Entry<Character,Integer> entry:map.entrySet()){
+            if(entry.getValue()==1){
+                str=entry.getKey();
+                break;
+            }
+        }
+        for(int i=0;i<s.length();i++){
+            if(str==s.charAt(i)){
+                ans=i;
+                break;
+            }
+        }
+        return ans;
       }
      
         }
