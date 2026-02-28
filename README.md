@@ -108,6 +108,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -254,6 +256,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
@@ -391,4 +394,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
