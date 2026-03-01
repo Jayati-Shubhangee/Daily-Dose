@@ -127,6 +127,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0076-minimum-window-substring) |
@@ -166,6 +167,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0143-reorder-list) |
