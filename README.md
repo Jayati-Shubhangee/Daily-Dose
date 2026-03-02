@@ -29,6 +29,7 @@
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0930-binary-subarrays-with-sum) |
@@ -174,6 +175,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0901-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
@@ -297,6 +299,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0735-asteroid-collision) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2288-count-operations-to-obtain-zero) |
 ## Breadth-First Search
 |  |
