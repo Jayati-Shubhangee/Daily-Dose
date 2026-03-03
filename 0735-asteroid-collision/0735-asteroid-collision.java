@@ -1,7 +1,7 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         //brute force using array list and comparison technique 
-        ArrayList<Integer> ans= new ArrayList<>();
+        /*ArrayList<Integer> ans= new ArrayList<>();
         for(int i=0;i<asteroids.length;i++){
             ans.add(asteroids[i]);
         }
@@ -33,6 +33,37 @@ class Solution {
         for( i=0;i<res.length;i++){
             res[i]=ans.get(i);
         }
+return res;*/
+//STACK LOGIC 
+ArrayDeque<Integer> ast= new ArrayDeque<>();
+for(int i=0;i<asteroids.length;i++){
+     if(asteroids[i] > 0){
+        ast.push(asteroids[i]);
+    }
+    else {
+
+        // Remove smaller positives
+        while(!ast.isEmpty() && ast.peek() > 0 
+              && ast.peek() < Math.abs(asteroids[i])) {
+            ast.pop();
+        }
+
+        // Equal case
+        if(!ast.isEmpty() && ast.peek() > 0 
+           && ast.peek() == Math.abs(asteroids[i])) {
+            ast.pop();
+        }
+        // No positive left → push
+        else if(ast.isEmpty() || ast.peek() < 0){
+            ast.push(asteroids[i]);
+        }
+        // else: bigger positive remains → do nothing
+    }
+}
+int[] res= new int[ast.size()];
+for(int i=ast.size()-1;i>=0;i--){
+res[i]=ast.pop();
+}
 return res;
     }
 }
