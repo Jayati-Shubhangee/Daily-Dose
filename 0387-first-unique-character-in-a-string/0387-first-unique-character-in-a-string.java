@@ -64,7 +64,7 @@ class Solution {
 
         //hasmap approach 
 
-        LinkedHashMap<Character, Integer> map = new LinkedHashMap<>();
+       /* LinkedHashMap<Character, Integer> map = new LinkedHashMap<>();
         Character str=' ';
         int ans=-1;
         for(int i=0;i<s.length();i++){
@@ -83,7 +83,32 @@ class Solution {
                 break;
             }
         }
-        return ans;
+        return ans;*/
+        LinkedHashMap<Character,Integer>map= new LinkedHashMap<>();
+        for(int i=0;i<s.length();i++){
+            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+        }
+        Character ans=' ';
+        int found=0;
+        for(Map.Entry<Character,Integer>entry:map.entrySet()){
+            if(entry.getValue()==1){
+                found=1;
+                ans=entry.getKey();
+                break;
+            }
+        }
+        if(found==0){
+            return-1;
+        }
+        else{
+            for(int i=0;i<s.length();i++){
+                if(s.charAt(i)==ans){
+                    return i;
+                    
+                }
+            }
+        }
+        return -1;
       }
      
         }
