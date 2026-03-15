@@ -68,6 +68,7 @@
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0257-binary-tree-paths](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
+| [0680-valid-palindrome-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -287,6 +289,7 @@
 | [0135-candy](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Linked List
