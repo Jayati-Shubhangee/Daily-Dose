@@ -1,7 +1,7 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         //edege cases if string length not equal then 
-        if(s.length()!=t.length()){
+      /*  if(s.length()!=t.length()){
             return false;
         }
         else{
@@ -19,7 +19,7 @@ class Solution {
         return true;*/
 
         //second approach hashmap approach 
-        HashMap<Character, Integer> map= new HashMap<>();
+       /* HashMap<Character, Integer> map= new HashMap<>();
         for(int i=0;i<s.length();i++){
             map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
         }
@@ -36,7 +36,21 @@ for(int j=0;j<t.length();j++){
     }
 }
 return (map.size()==0);
+        }*/
+        if(s.length()!=t.length()){
+            return false;
         }
-        
+        else{
+            char[] s1=s.toCharArray();
+            char[] s2=t.toCharArray();
+            Arrays.sort(s1);
+            Arrays.sort(s2);
+            for(int i=0 ,j=0;i<s1.length && j<s2.length;i++, j++){
+                if(s1[i]!=s2[j]){
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }
