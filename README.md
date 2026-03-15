@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
