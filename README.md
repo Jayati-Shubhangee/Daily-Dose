@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
@@ -101,6 +102,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
