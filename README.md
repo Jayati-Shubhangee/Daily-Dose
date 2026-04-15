@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
@@ -100,6 +101,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
