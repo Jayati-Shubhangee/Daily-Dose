@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -101,6 +102,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -350,6 +352,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0493-reverse-pairs) |
