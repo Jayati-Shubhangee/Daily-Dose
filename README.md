@@ -45,6 +45,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2643-row-with-maximum-ones](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
@@ -396,6 +397,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0074-search-a-2d-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search Tree
 |  |
