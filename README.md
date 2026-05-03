@@ -154,6 +154,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0796-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
@@ -429,4 +430,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
