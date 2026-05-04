@@ -46,6 +46,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2643-row-with-maximum-ones) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
@@ -131,6 +132,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3719-longest-balanced-subarray-i) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0992-subarrays-with-k-different-integers) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4053-majority-frequency-characters](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/4053-majority-frequency-characters) |
 ## Prefix Sum
@@ -306,6 +309,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0860-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Linked List
 |  |
 | ------- |
