@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0056-merge-intervals) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0202-happy-number) |
@@ -401,6 +403,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jayati-Shubhangee/Daily-Dose/tree/master/2965-find-missing-and-repeated-values) |
